@@ -11,19 +11,20 @@ body {
     min-height: 10vh;/* Ensures that the background covers the entire viewport height */
 
 }
-.name{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.name:hover{
     color: #fff;
-   
+    background-color: #000;
 }
 .info{
-    color: #8decec;
+    color: #38ffd7;
     text-align: center;
     display: flex;
     align-items: center;
     padding: 40px 170px;
+   
+}
+.info:hover{
+    color: #fff;
 }
 
 .topbar {
