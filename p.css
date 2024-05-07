@@ -289,6 +289,7 @@ footer p {
     position: relative;
     margin-top: -140px;
     padding: 10px 15px;
+    background: #fff;
     text-align: center;
     color: #111;
     visibility: hidden;
@@ -302,6 +303,4 @@ footer p {
     margin-top: -40px;
     transition-delay: 0.3s;
 }
-.container3 .card .content:hover{
-    color: #fff;
-}
+
